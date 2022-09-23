@@ -42,9 +42,9 @@
             android:id="@+id/icon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
             android:layout_marginTop="@dimen/margin_default"
-            android:src="@drawable/icono"/>
+            android:src="@drawable/icono"
+            android:layout_gravity="center_horizontal"/>
 
         <TextView
             android:id="@+id/name_txt"
@@ -52,7 +52,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:text="@string/txt_name"
-            android:layout_gravity="center"
+            android:layout_gravity="center_horizontal"
             android:layout_marginVertical="@dimen/margin_default"
             app:layout_constraintTop_toBottomOf="@id/icon"/>
 
@@ -62,7 +62,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:text="@string/txt_email"
-            android:layout_gravity="center"
+            android:layout_gravity="center_horizontal"
             android:layout_marginBottom="@dimen/margin_default"
             app:layout_constraintTop_toBottomOf="@id/name_txt"/>
 
