@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PrimerParcial</string>
+
+    <string name="txt_sign_in_n">Sign In Now</string>
+    <string name="txt_phone_email">Phone number or email</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_sign_in">SIGN IN</string>
+
+    <string name="txt_profile">PROFILE</string>
+    <string name="txt_name">Nicole Henrichsen</string>
+    <string name="txt_email">nicole.henrichsencl@anahuac.mx</string>
+    <string name="horario">Horario de clase</string>
+    <string name="materias">Materias</string>
+    <string name="calif">Calificaciones</string>
+    <string name="Pago">Pago de colegiaturas</string>
+</resources>

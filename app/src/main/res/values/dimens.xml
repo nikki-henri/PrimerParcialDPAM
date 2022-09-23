@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="corner_radius">20dp</dimen>
+    <dimen name="line_height">1dp</dimen>
+    <dimen name="height_logo">100dp</dimen>
+    <dimen name="width_logo">100dp</dimen>
+
+    <dimen name="signup_font_size">18sp</dimen>
+    <dimen name="corner_radius_dos">24dp</dimen>
+    <dimen name="elevation">8dp</dimen>
+    <dimen name="elevation_card">16dp</dimen>
+
+    <dimen name="height_logo_n">30dp</dimen>
+    <dimen name="margin_top_default">32dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+</resources>
